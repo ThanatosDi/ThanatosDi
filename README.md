@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://github-readme-stats2-blond.vercel.app/api?username=ThanatosDi&show_icons=true&count_private=true)
 <!--
 **ThanatosDi/ThanatosDi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
