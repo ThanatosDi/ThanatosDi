@@ -29,7 +29,9 @@ Hi 我是 ThanatosDi，你也可以叫我 丁丁 或 古丁丁
 
 
  
-![](https://github-readme-stats2-blond.vercel.app/api?username=ThanatosDi&show_icons=true&count_private=true)
+![](https://github-readme-stats2-blond.vercel.app/api?username=ThanatosDi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanatosDi&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <!--
 **ThanatosDi/ThanatosDi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
