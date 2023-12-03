@@ -29,6 +29,7 @@ Hi 我是 ThanatosDi，你也可以叫我 丁丁 或 古丁丁，主力使用的
 |Haato3o/HunterPie|參與繁體中文翻譯|
 |edrlab/thorium-reader|參與繁體中文翻譯|
 |ECPay/ECPayAIO_Python|協助修復語法警告|
+|Appflowy/Appflowy-Cloud|增加 cloudflared 使主機無須開啟 port|
 
 
  
