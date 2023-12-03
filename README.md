@@ -35,6 +35,12 @@ Hi 我是 ThanatosDi，你也可以叫我 丁丁 或 古丁丁，主力使用的
 ![](https://github-readme-stats2-blond.vercel.app/api?username=ThanatosDi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanatosDi&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+# 人格特質
+|性格類型|Energy|Mind|Nature|Tactics|Identity|測試日期|
+|---|---|---|---|---|---|---|
+|後衛（ISFJ-T）|51% - 內向|55% - 細心的|64% - 感覺|67% - 評判|61% - 湍流|[2022/08/24](https://www.16personalities.com/profiles/69f5aad3a1fea)|
+|物流師（ISFJ-T）|58% - 內向|60% - 善於觀察|54% - 思維|75% - 評判|64% - 動盪|[2023/12/03](https://www.16personalities.com/profiles/69f5aad3a1fea)|
 <!--
 **ThanatosDi/ThanatosDi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
